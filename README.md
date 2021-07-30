@@ -11,3 +11,5 @@ Results:-
 Sample results of KNN Algorithm:-
 
 ![image](https://user-images.githubusercontent.com/14963915/127612830-05087c01-cc2a-42e2-a5a8-1fac7717c27f.png)
+
+![image](https://user-images.githubusercontent.com/14963915/127612971-e8ed7119-7fc2-4387-b367-7541cfc8a513.png)
